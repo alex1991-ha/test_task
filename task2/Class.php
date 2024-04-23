@@ -1,7 +1,7 @@
 <?php
 
 
-public class Data
+class Data
 {
   
 
